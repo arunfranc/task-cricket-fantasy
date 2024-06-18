@@ -1,2 +1,3 @@
 node_modules/
 app/controllers/main_controller_backup.js
+app/config/
