@@ -21,13 +21,13 @@ Example(Postman):
 ### Process Match Result "/process-result"
   - Input Parameters:
     - None
-  - Output
+  - Output(Postman)
      - Showing players total points.
 
 
 ### View Teams Results "/team-result"
   - Input Parameters:
     - None
-  - Output
+  - Output(Postman)
     - Showing Teamwise points and highest points won team 
   
